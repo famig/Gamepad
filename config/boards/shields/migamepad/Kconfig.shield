@@ -1,2 +1,0 @@
-config SHIELD_MIGamePad
-    def_bool $(shields_list_contains,migamepad)
